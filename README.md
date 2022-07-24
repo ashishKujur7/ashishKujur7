@@ -1,5 +1,5 @@
 ## All About Ashish
-Hello, there! I am Ashish Kujur. I am currently a MSc Mathematics student as Indian Institute of Science Education and Research, Thiruvananthapuram. Besides Maths, I am quite interested in free and open source softwares and can play the guitar quite a bit. 
+Hello, there! I am Ashish Kujur. I am currently a MSc Mathematics student as Indian Institute of Science Education and Research, Thiruvananthapuram. When I am not doing Maths, you can find me dabbling with free and open source softwares and my guitar. 
 
 I primarily created this Github remote to upload lecture notes that I take in class. You can reach me on e-mail: [ashish.kujur@protonmail.com](mailto:ashish.kujur@protonmail.com).
 
