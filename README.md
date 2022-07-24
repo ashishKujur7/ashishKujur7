@@ -1,7 +1,7 @@
 ## All About Ashish
 Hello, there! I am Ashish Kujur. I am currently a MSc Mathematics student as Indian Institute of Science Education and Research, Thiruvananthapuram. Besides Maths, I am quite interested in free and open source softwares and can play the guitar quite a bit. 
 
-I mainly created this Github remote to upload lecture notes that I take in class. You can reach me on e-mail: [ashish.kujur@protonmail.com](mailto:ashish.kujur@protonmail.com).
+I primarily created this Github remote to upload lecture notes that I take in class. You can reach me on e-mail: [ashish.kujur@protonmail.com](mailto:ashish.kujur@protonmail.com).
 
 <!--
 **ashishKujur7/ashishKujur7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
