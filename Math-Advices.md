@@ -20,6 +20,6 @@ Often, teachers have hard time convincing students why proofs are important. In 
 
 Just a general math advice answer which I find pretty convincing.
 
-6.[Joel David Hamkins's answer on Reductio ad absurdum or the contrapositive?](https://mathoverflow.net/a/12400/134679)
+6. [Joel David Hamkins's answer on Reductio ad absurdum or the contrapositive?](https://mathoverflow.net/a/12400/134679)
 
 This answer by Hamkins gives a solid reason why mathematicians prefer a direct proof to a reductio ad absurdum proof. 
