@@ -25,3 +25,8 @@ Just a general math advice answer which I find pretty convincing.
 This answer by Hamkins gives a solid reason why mathematicians prefer a direct proof to a reductio ad absurdum proof. 
 
 7. [Francis Su's article on Writing Mathematics Well](https://math.hmc.edu/su/wp-content/uploads/sites/10/2020/08/Guidelines-for-Good-Mathematical-Writing.pdf)
+
+8. [What would be the best choice to study complex analysis of these three: Lang, Conway, Ahlfors? I understand that Ahlfors is the “gold standard.” I’m looking for the best combination of comprehensiveness, good problems, and readability.](https://qr.ae/pvuP3y)
+
+This is the usual advice given by most people but I just wanted it out here because choice of books is a matter of personal preference.
+
