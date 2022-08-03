@@ -5,7 +5,6 @@ Most teachers do not have much time to convey everything. They try to rush the i
 
 2. **Do the assignment and do it early.**
 Slacking off is not an excuse. Some questions on the quiz and/or the final examination are a variant of the questions on the assigments. Not only that, you actually get to test if you are "actually" learning the material that you are learning.
-
 If you postpone doing your assignments to the very last minute, you miss out on a lot of things. First, you do not get to write down your proper solutions and writing down is a important part of learning mathematics. If you put something down on paper, people can critique your solutions and you get feedback. 
 
 3. **Study for the exam!**
