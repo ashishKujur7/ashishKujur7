@@ -23,7 +23,7 @@ Redoing homework helps (if you have got time).
 Besides the instructor, books are your best source of information. Different authors have different expository style, so, do not get lost in flipping too many books. If the author is using a particular textbook for the course, use that particular textbook.  Also, textbooks are a good source of problems. Try working on those. Once the course is over, books can be used to relearn the stuff that you missed out and something that course did not have to offer.
 
 8. **Take breaks often!**
-Mathematics is more exhausting than running 5 kms. So take breaks! Use the pomodoro method. I personally have tried it and it has enabled me to study for long time with burning out myself. I repeat 40min work - 10 min break four times and a take long break of 20 minutes. I personally like to walk and listen to music in my breaks. No one is actually stopping from doing anything in your breaks, so, do whatever the f*** you want.
+Mathematics is more exhausting than running 5 kms. So take breaks! Use the pomodoro method. I personally have tried it and it has enabled me to study for long time sans burning out myself. I repeat 40min work - 10 min break four times and a take long break of 20 minutes. I personally like to walk and listen to music in my breaks. No one is actually stopping from doing anything in your breaks, so, do whatever the f*** you want.
 
 9. **Have a good night sleep.**
 A goodnight sleeps helps you to think better and which is required for doing mathematics.
