@@ -1,4 +1,4 @@
-# An informal mathematical advice to myself
+# An informal mathematical advice to myself (and possibly others who may read it)
 
 1. **Take Notes!**
 Most teachers do not have much time to convey everything. They try to rush the information in whatever short amount of time they get. It does not matter if you do not understand whatever the teacher says. Just go to the class and take down whatever information the instructor has to offer. *The real learning happens outside the class*. An hour worth of lecture is worth three times worth of self study time! This is no exaggeration for teachers expect you to fill in whatever little details that can possibly be filled. 
