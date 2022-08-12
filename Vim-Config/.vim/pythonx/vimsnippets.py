@@ -1,1 +1,0 @@
-/usr/share/vim/addons/pythonx/vimsnippets.py
