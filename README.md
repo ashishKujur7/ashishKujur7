@@ -1,5 +1,5 @@
 ## $\varepsilon$-information About Ashish $\ddot\smile$
-Hello, Ashish here! I am currently a first year PhD Mathematics student as [Indian Institute of Science Education and Research, Thiruvananthapuram](https://www.iisertvm.ac.in/). When I am not doing Maths, you can find me dabbling with free and open source softwares and my guitar. 
+Hello, Ashish here! I am currently a first year PhD Mathematics student at [Indian Institute of Science Education and Research, Thiruvananthapuram](https://www.iisertvm.ac.in/). When I am not doing Maths, you can find me dabbling with free and open source softwares and my guitar. 
 
 I primarily created this Github account to upload lecture notes that I take in class and solutions to some problems that I solve. You can reach me on my e-mail: [ashish.kujur@protonmail.com](mailto:ashish.kujur@protonmail.com).
 
